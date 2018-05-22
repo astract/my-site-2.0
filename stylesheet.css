@@ -82,3 +82,9 @@ a {
 	font-weight: 600;
 	text-decoration: none;
 }
+
+.blended {
+  background-image: url(face.jpg);
+  background-color: red;
+  background-blend-mode: multiply;
+}
